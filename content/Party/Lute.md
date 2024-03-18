@@ -1,0 +1,1 @@
+Mimic wizard/champion
