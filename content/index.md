@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Bramandat Samrathan
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+![[BramandatSamrathanview.webp]]
+
+Welcome to the campaign web page.  The most recent can be found here: [[2024.03.15 - So many pseudopds]]
