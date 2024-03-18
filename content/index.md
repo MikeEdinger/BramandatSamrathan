@@ -6,7 +6,7 @@ title: Bramandat Samrathan
 
 Welcome to the campaign web page.  The most recent can be found here: [[2024.03.15 - So many pseudopds]]
 
-You may need to use the following to navigate on mobile
+You may need to use the following to navigate on mobile  
  [NPCs](https://bramandatsamrathan.pages.dev/NPCs/)  
  [Party](https://bramandatsamrathan.pages.dev/Party/)  
 [Session Recaps](https://bramandatsamrathan.pages.dev/Session-Recaps/)  
