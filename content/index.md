@@ -4,7 +4,7 @@ title: Bramandat Samrathan
 
 ![[BramandatSamrathanview.webp]]
 
-Welcome to the campaign web page.  The most recent can be found here: [[2024.03.15 - So many pseudopds]]
+Welcome to the campaign web page.  The most recent can be found here: [[2024.04.12 - The Party Almost Searches for a Whorehouse]]
 
 You may need to use the following to navigate on mobile  
  [NPCs](https://bramandatsamrathan.pages.dev/NPCs/)  
