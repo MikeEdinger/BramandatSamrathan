@@ -4,7 +4,7 @@ title: Bramandat Samrathan
 
 ![[BramandatSamrathanview.webp]]
 
-Welcome to the campaign web page.  The most recent can be found here: [[2024.03.15 - So many pseudopds]]
+Welcome to the campaign web page.  The most recent can be found here: [[2024.05.12 - Moist and Malleable]]
 
 You may need to use the following to navigate on mobile  
  [NPCs](https://bramandatsamrathan.pages.dev/NPCs/)  
