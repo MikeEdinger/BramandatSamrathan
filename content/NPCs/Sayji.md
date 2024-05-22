@@ -1,0 +1,1 @@
+Sayji is an advocate in the city, who generally represents Inhabitants in disputes against Citizens.  He is a tired and weary from his profession, as most disputes usually get resolved in the favor of Citizens, regardless of the facts of the dispute.
