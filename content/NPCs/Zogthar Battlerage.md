@@ -1,0 +1,3 @@
+![[Zogthar Battlerage.png]]
+
+Nerdy orc wizard.  Also a relatively new Inhabitant.  He came with a bag with many books.  The Central Keshtraya LIbrary aspires to have one of every book.  Zogthar, strangely, has multiple books that don't have copies in the Library.  He is willing to take them to the library to be copied, but he was accosted in his neighborhood and is afraid to take them to the library by himself.
