@@ -1,1 +1,1 @@
-Can make talismans
+Nephilim (teifling) thaumaturge.
