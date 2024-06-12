@@ -1,0 +1,1 @@
+A military trained hobgoblin lieutenant in the City Guard.
