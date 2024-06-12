@@ -4,7 +4,7 @@ title: Bramandat Samrathan
 
 ![[BramandatSamrathanview.webp]]
 
-Welcome to the campaign web page.  The most recent can be found here: [[2024.06.10]]
+Welcome to the campaign web page.  The most recent can be found here: [[2024.06.10 - Charles Charles in Charge]]
 
 You may need to use the following to navigate on mobile  
 [NPCs](https://bramandatsamrathan.pages.dev/NPCs/)  
