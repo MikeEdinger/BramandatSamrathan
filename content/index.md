@@ -4,7 +4,7 @@ title: Bramandat Samrathan
 
 ![[BramandatSamrathanview.webp]]
 
-Welcome to the campaign web page.  The most recent can be found here: [[2024.06.04 - The Pig Guy is Surprisingly Charming]]
+Welcome to the campaign web page.  The most recent can be found here: [[2024.06.10]]
 
 You may need to use the following to navigate on mobile  
 [NPCs](https://bramandatsamrathan.pages.dev/NPCs/)  
