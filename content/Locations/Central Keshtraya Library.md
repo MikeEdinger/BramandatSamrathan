@@ -1,0 +1,1 @@
+![[Central Keshtraya Library.webp]]

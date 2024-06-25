@@ -4,7 +4,7 @@ title: Bramandat Samrathan
 
 ![[BramandatSamrathanview.webp]]
 
-Welcome to the campaign web page.  The most recent can be found here: [[2024.06.10 - Charles Charles in Charge]]
+Welcome to the campaign web page.  The most recent can be found here: [[2024.06.24 - The Puzzle Book was Bullshit]]
 
 You may need to use the following to navigate on mobile  
 [NPCs](https://bramandatsamrathan.pages.dev/NPCs/)  
