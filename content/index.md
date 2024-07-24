@@ -4,7 +4,7 @@ title: Bramandat Samrathan
 
 ![[BramandatSamrathanview.webp]]
 
-Welcome to the campaign web page.  The most recent can be found here: [[2024.07.08 - Plumbing the Depths]].
+Welcome to the campaign web page.  The most recent can be found here: [[2024.07.15 - The GM Can't Think of a Witty Title]].
 
 You may need to use the following to navigate on mobile  
 [NPCs](https://bramandatsamrathan.pages.dev/NPCs/)  
