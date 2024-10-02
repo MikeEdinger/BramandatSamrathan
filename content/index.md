@@ -4,7 +4,7 @@ title: Bramandat Samrathan
 
 ![[BramandatSamrathanview.webp]]
 
-Welcome to the campaign web page.  The most recent can be found here: [[2024.09.16 - Another Phlegmy Mimic]].
+Welcome to the campaign web page.  The most recent can be found here: [[2024.09.23 - 2024.09.30 - Mating Mimics is Like a Snake Orgy]].
 
 You may need to use the following to navigate on mobile  
 [NPCs](https://bramandatsamrathan.pages.dev/NPCs/)  
